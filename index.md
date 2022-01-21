@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Daha doğrusu benim Mardin ve içindekiler hakkında (kötü) **düşüncelerim** 🙂
 
-You can use the [editor on GitHub](https://github.com/whattyu/mardin/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Mardin
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Bir dağın tepesine kurulmuş küçük bir şehir (bu mardin merkezi için geçerli btw) diğer ilçeleri daha büyük ör: 2020'de Mardin'in nüfusu 139.254 iken ilçesi Kızıltepe'nin 261.442 nüfusu var. Ve tahmin edebileceğiniz gibi bazı büyük markalar yok(Zara, Metro, CarrefourSA ve birkaç kadın giyim mağazısı daha).
 
-### Markdown
+### İnsanları
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Genelleme yapacak olursam ne dedikleri anlaşılmıyor bazıları Türkçe konuşurken bi anda arapça, kürtçe falan konuşabiliyor ama o kadarda kötü insanalar değildir demek isterim **ama CAHİLLER**(Bu özellike 35 yaş üzerine).
 
-```markdown
-Syntax highlighted code block
+### Bahçeşehir Koleji
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/whattyu/mardin/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Açıkçası Mavi Dünyayken oraya kötülerdim ama sonra bahçeşehiri gördüm ve dedim ki(açık konuşak gerekirse) o kötüleyen ağzını ... Eğitimi kötü, Disiplin yok(Parayı veren düdüğü çalar gibi; örnek isteseniz çok var: tuvalette sigara içerken müdürün görüp içbir şey yapmaması mı dersiniz sınıfta yiyişenler mi dersiniz artık) ama onun dışında tabi derseniz klasik bi okul işte
