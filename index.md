@@ -1,4 +1,5 @@
-# Daha doğrusu benim Mardin ve içindekiler hakkında (kötü) **düşüncelerim** 🙂
+# Mardin Blog
+## Daha doğrusu benim Mardin ve içindekiler hakkında (kötü) **düşüncelerim** 🙂
 
 ### Mardin
 
